@@ -10,7 +10,7 @@ body{
     
 
 }
-.table{
+
     position: relative;
     top: 10%;
     left: 220%;
@@ -20,7 +20,4 @@ body{
     border-radius: 3%;
     box-sizing: content-box;
     box-shadow : inset rgb(rgb(47, 0, 255) rgb(0, 250, 0) rgb(91, 91, 185) / 1)
-}
-*{
-    box-sizing: border-box;
 }
