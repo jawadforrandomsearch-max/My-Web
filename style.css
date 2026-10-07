@@ -1,0 +1,23 @@
+*{
+    display: flex;
+}
+body{
+    background-color: beige;
+    
+     
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    
+
+}
+.table{
+    position: relative;
+    top: 10%;
+    left: 220%;
+    background-color: beige;
+    width: 250px;
+    height: 400px;
+    border-radius: 3%;
+    box-sizing: content-box;
+    box-shadow : inset rgb(rgb(47, 0, 255) rgb(0, 250, 0) rgb(91, 91, 185) / 1)
+}
